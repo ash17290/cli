@@ -6,6 +6,9 @@ on:
 jobs:
   should-workflow-run:
     runs-on: ubuntu-latest
+    steps:
+      - name: dummy
+        run: echo "Hello"
     outputs:
       shouldrun: 'true'
 
