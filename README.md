@@ -7,7 +7,7 @@ CLI to work with your AsyncAPI files. Currently under development, we are workin
 [![npm](https://img.shields.io/npm/dw/@asyncapi/cli)](https://www.npmjs.com/package/@asyncapi/cli)
 
 ## Table of contents
-
+Testing changeset
 <!-- toc -->
 
 - [Installation](#installation)
