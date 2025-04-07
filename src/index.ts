@@ -6,4 +6,5 @@ export { run } from '@oclif/core';
  */
 process.on('unhandledRejection', (reason) => {
   throw new Error(reason as string);
+  console.log("Changeset 2")
 });
